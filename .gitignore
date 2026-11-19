@@ -1,0 +1,35 @@
+# Папки и файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Скомпилированные файлы и папки сборки
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.so
+*.dylib
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Файлы отладки
+*.pdb
+*.idb
+*.ilk
+
+# Временные файлы
+*.tmp
+*.log
+*.swp
+*~
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+desktop.ini
